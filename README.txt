@@ -1,5 +1,8 @@
 To setup and deploy:
 
+Java API documentation and installation documents are available at
+https://github.com/emilda/monashmie/downloads
+
 Read the document installation-guide.docx, for the installation instructions.
 
 This project contains the server component for the metadata registration with ANDS.
